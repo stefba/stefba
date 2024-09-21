@@ -1,1 +1,1 @@
-![info svg](https://sacerb.com/info.svg?v=x)
+![info svg](https://stefba.com/info.svg?v=x)
